@@ -1,0 +1,28 @@
+
+h1{
+margin-top: 100px;
+margin-left: 150px;
+}
+
+label{
+margin-top: 50px;
+margin-left: 100px;
+}
+p{
+  margin-left: 100px;
+  font-size: 70%;
+  color: red;
+}
+body{
+  border: 2px solid black;
+}
+#sub{
+  margin-top: 50px;
+  margin-left: 200px;
+}
+#result{
+  margin-left: 100px;
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
