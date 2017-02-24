@@ -1,12 +1,11 @@
 <?php
-require 'DecisionMaker.php';
 
 $split   = $_GET['manyWays'];
 $howMuch = $_GET['tab'];
 $service = $_GET['howWasService'];
 $roundUp = $_GET['round'];
 
-$decision = new DecisionMaker($split,$howMuch);
+
 $error ='';
 
 
